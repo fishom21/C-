@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ICT
+=======
+Hello Bishoftu.
+Now we wil continue our work.
+we are ready.
+>>>>>>> Department
